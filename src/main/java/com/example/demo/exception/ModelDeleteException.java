@@ -8,4 +8,5 @@ public class ModelDeleteException extends RuntimeException {
 		super(message);
 
 	}
+}
 
